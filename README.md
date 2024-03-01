@@ -1,5 +1,5 @@
-### <p align="center"> 🌻 Hello, Jay here 🌻 </p>
-<hr>
+## <h2 align="center"> 🌊 WAVES 🌊 </h2>
+
 
 <!--
 **JayPatel-Tandem/JayPatel-Tandem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
