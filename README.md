@@ -1,4 +1,4 @@
-## <h2 align="center"> 🌊 WAVES 🌊 </h2>
+## <h1 align="center"><i>FOREVER FASTER</i></h1>
 
 
 <!--
